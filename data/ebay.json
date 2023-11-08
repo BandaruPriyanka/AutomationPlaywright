@@ -1,0 +1,20 @@
+{
+    "credentials":{
+        "Username": "priyankabandaru012@gmail.com",
+        "password": "StrictOne@56"
+    },
+
+    "navbar": [
+        "Electronics",
+        "Motors",
+        "Fashion",
+        "Collectibles and Art",
+        "Sports",
+        "Health & Beauty",
+        "Industrial equipment",
+        "Home & Garden",
+        "Deals",
+        "Sell"
+    ],
+    "itemName":"dell laptop"
+}

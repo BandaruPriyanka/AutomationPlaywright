@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 07 10:55:59 IST 2023","Tue Nov 07 10:56:04 IST 2023","4868","chromium","apiautomation.spec.js","","","","login functionality",""
+"passed","Tue Nov 07 10:55:59 IST 2023","Tue Nov 07 10:57:16 IST 2023","76548","chromium","ebay.spec.js","","","","selecting  specific item in ebay application and adding  it to cart",""
+"passed","Tue Nov 07 10:55:59 IST 2023","Tue Nov 07 10:56:51 IST 2023","52126","chromium","ebay.spec.js","","","","Now selecting any item from  search area an added to wishlist",""
+"passed","Tue Nov 07 10:55:59 IST 2023","Tue Nov 07 10:56:01 IST 2023","1570","chromium","apiautomation.spec.js","","","","posting data using writeSync",""
